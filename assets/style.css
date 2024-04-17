@@ -6,7 +6,7 @@
    body {
     font-family: Arial, sans-serif;
     background-color: black;
-    color: purple;
+    color: white;
    }
 
    header,
@@ -26,6 +26,12 @@
     text-align: center;
     text-decoration: underline;
     margin-bottom: 10px;
+   }
+
+   h3 {
+    text-align: center;
+    margin-top: 10px;
+    font-size: medium;
    }
    
    img {
