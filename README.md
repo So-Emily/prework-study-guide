@@ -1,4 +1,4 @@
-# <Em's Study Guide Webpage>
+# Em's Study Guide Webpage
 
 ## Description
 
