@@ -20,7 +20,6 @@ WARNING: This Project used different colors than the origin tutorial asked.
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
@@ -37,7 +36,3 @@ I also used the ai chat to look up a few css labels to help make spaces where I 
 ## License
 
 MIT License
-
-## Tests
-
-Tests would mainly come from the console in chromes inspect page. 
